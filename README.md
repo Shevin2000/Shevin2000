@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shevin</h1>
-<h3 align="center">A Computer Science from Sri Lanka</h3>
-<img src="https://miro.medium.com/v2/resize:fit:828/0*oyarAFEx_X9GNcWT.gif" alt="Lamp" width="700" height="400">
+<h3 align="center">A Computer Science student from Sri Lanka</h3>
+<img src="https://miro.medium.com/v2/resize:fit:828/0*oyarAFEx_X9GNcWT.gif" alt="Lamp" width="500" image align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shevin2000&label=Profile%20views&color=0e75b6&style=flat" alt="shevin2000" /> </p>
