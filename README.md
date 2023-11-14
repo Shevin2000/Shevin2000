@@ -3,7 +3,6 @@
 <h3 style="text-align: center;">A Computer Science student from Sri Lanka</h3>
 <img src="https://miro.medium.com/v2/resize:fit:828/0*oyarAFEx_X9GNcWT.gif" alt="Lamp" width="300" image align="right">
 
-<p>This is the order of elements you mentioned. The left-aligned image comes first, followed by the name aligned to the right and the description aligned at the center. Finally, the right-aligned image comes last.</p>
 
 
 <p style="clear: both; text-align: left;">
