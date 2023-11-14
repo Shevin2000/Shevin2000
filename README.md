@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shevin</h1>
-<h3 align="center">A Computer Science student from Sri Lanka</h3>
-<img src="https://miro.medium.com/v2/resize:fit:828/0*oyarAFEx_X9GNcWT.gif" alt="Lamp" width="500" image align="right">
+<img src="https://media.licdn.com/dms/image/D4E16AQEEiiN7yN_d5w/profile-displaybackgroundimage-shrink_350_1400/0/1665036778275?e=1705536000&v=beta&t=sdazdjte3OnqwbSbaUfWjbN0O6TXM4B4RSvaQyyYM3E" alt="Lamp" width="1500" style="float: left; margin-right: 20px;">
+<h1 style="text-align: right;">Hi 👋, I'm Shevin</h1>
+<h3 style="text-align: center;">A Computer Science student from Sri Lanka</h3>
+<img src="https://miro.medium.com/v2/resize:fit:828/0*oyarAFEx_X9GNcWT.gif" alt="Lamp" width="300" image align="right">
+
+<p>This is the order of elements you mentioned. The left-aligned image comes first, followed by the name aligned to the right and the description aligned at the center. Finally, the right-aligned image comes last.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shevin2000&label=Profile%20views&color=0e75b6&style=flat" alt="shevin2000" /> </p>
+<p style="clear: both; text-align: left;">
+    <img src="https://komarev.com/ghpvc/?username=shevin2000&label=Profile%20views&color=0e75b6&style=flat" alt="shevin2000" />
+</p>
+
 
 - 🌱 I’m currently learning **PyTorch**
 
